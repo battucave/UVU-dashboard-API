@@ -24,7 +24,7 @@ You can develop and deploy a function app using either Visual Studio Code or the
 
 ## Setup
 
-Clone or download [this sample's repository](https://github.com/Azure-Samples/fastapi-on-azure-functions/), and open the `fastapi-on-azure-functions` folder in Visual Studio Code or your preferred editor (if you're using the Azure CLI).
+Clone or download and open the `fastapi-on-azure-functions` folder in Visual Studio Code or your preferred editor (if you're using the Azure CLI).
 
 ## Using FastAPI Framework in an Azure Function App
 
